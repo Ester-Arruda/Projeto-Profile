@@ -1,7 +1,7 @@
 # Projeto Portfólio - Prática de Responsividade
 
 ## Visão Geral
-Este portfólio é um projeto pessoal desenvolvido para praticar a criação de interfaces web responsivas. Ele demonstra habilidades em HTML, CSS e JavaScript, apresentando trabalhos e projetos em um layout adaptável a diferentes dispositivos.
+Este portfólio é um projeto pessoal desenvolvido para praticar a criação de interfaces web responsivas. Ele demonstra habilidades em HTML, CSS, apresentando trabalhos e projetos em um layout adaptável a diferentes dispositivos.
 
 ## Objetivo
 - Aprimorar habilidades em design responsivo.
@@ -12,7 +12,7 @@ Este portfólio é um projeto pessoal desenvolvido para praticar a criação de 
 3. Abra o arquivo `index.html` em um navegador para visualizar o portfólio.
 
 ## Tecnologias Utilizadas
-- HTML, CSS e JavaScript para desenvolvimento de um layout responsivo.
+- HTML, CSS para desenvolvimento de um layout responsivo.
 
 ---
 
