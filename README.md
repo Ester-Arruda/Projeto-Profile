@@ -1,7 +1,7 @@
 # Projeto Portfólio - Prática de Responsividade
 
 ## Visão Geral
-Este portfólio é um projeto pessoal desenvolvido para praticar a criação de interfaces web responsivas. Ele demonstra habilidades em HTML, CSS, apresentando trabalhos e projetos em um layout adaptável a diferentes dispositivos.
+Este portfólio é um projeto pessoal desenvolvido para praticar a criação de interfaces web responsivas. Ele demonstra habilidades em HTML, CSS, apresentando trabalhos e projetos em um layout adaptável a diferentes dispositivos. Veja a interface [aqui](https://ester-arruda.github.io/Projeto-Profile/).
 
 ## Objetivo
 - Aprimorar habilidades em design responsivo.
